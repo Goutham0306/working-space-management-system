@@ -1,0 +1,13 @@
+#viewmyproject{
+    width: 300px;
+    height: 100px;
+   color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 50px;
+    
+    
+
+}
+#viewmyproject #link{
+    color:red !important;
+}
